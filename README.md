@@ -1,38 +1,49 @@
-🚖 Challenge #13: Insights for Chief of Operations in the Transportation Domain
+🚀 Codebasics Resume Project 13: GoodCabs Update! 🚀
 
-I’m excited to share that I’ve completed the SQL portion of the Goodcabs Challenge, where I analyzed critical metrics to support data-driven decisions for optimizing operations in tier-2 cities across India.
+Excited to share my latest work on GoodCabs, as part of the Codebasics Resume Challenge 13! 🗂️
 
-💡 Key SQL Functions & Concepts I Learned:
-Through this project, I mastered a variety of SQL functions and techniques, including:
+📝 Project Overview:
+GoodCabs, a cab service company established two years ago, is transforming tier-2 cities across India. Unlike other cab providers, GoodCabs supports local drivers, ensuring sustainable livelihoods while delivering excellent service to passengers. In 2024, they aim to achieve ambitious growth and performance targets.
 
-Aggregate Functions: SUM(), COUNT(), AVG(), MIN(), MAX() for summarizing data.
-Window Functions:
-ROW_NUMBER(), RANK(), DENSE_RANK() for ranking data.
-PARTITION BY for segmenting data analysis.
-Common Table Expressions (CTEs): Using WITH to structure queries and improve readability.
-Joins: Inner, Left, and Cross Joins to merge tables effectively.
-Subqueries: Nesting queries for complex operations.
-Conditional Logic: CASE statements for dynamic categorization.
-Date and Time Functions: Extracting, grouping, and analyzing temporal data.
-Mathematical Functions: ROUND() for precision and clarity in metrics.
-Percent Calculations: Understanding contributions, differences, and rates.
-📊 Business Requests Addressed:
-1️⃣ City-Level Fare and Trip Summary: Average fares, city contribution to trips, and more.
-2️⃣ Monthly City-Level Trip Target Analysis: Evaluating trip performance against targets.
-3️⃣ Repeat Passenger Distribution: Insights into passenger retention by city and trip frequency.
-4️⃣ Cities with Highest/Lowest New Passengers: Identifying growth opportunities.
-5️⃣ Revenue Contribution: Highlighting months with the highest revenue for each city.
-6️⃣ Repeat Passenger Rate Analysis: Measuring passenger retention across months and cities.
+📊 Key Metrics Analyzed:
+✅ Total Trips 🚖
+✅ Total Fare (Revenue) 💰
+✅ Total Distance Travelled 📍
+✅ Average Rating: ⭐
 
-📂 Here is the Raw Data link: https://codebasics.io/challenge/codebasics-resume-project-challenge
+Passenger Rating 😊
+Driver Rating 🚖
+✅ Average Fare per Trip (Cost Per Trip)
+✅ Average Fare per Km
+✅ Average Trip Distance
+✅ Trip Distance (Max & Min)
+✅ Trip Type:
+New Trips
+Repeated Trips 🔄
+✅ Total Passengers 👥
+✅ New Passengers vs. Repeat Passengers
+✅ New vs. Repeat Passenger Trip Ratio
+✅ Repeat Passenger Rate (%)
+✅ Revenue Growth Rate (Monthly) 📈
+✅ Target Achievement Rate:
+Trips Target
+New Passenger Target
+Average Passenger Rating Target
+🛠 Tools & Techniques Used:
+✅ Power BI for dynamic dashboards 📊
+✅ MySQL for data queries
+✅ Data Cleaning & Visualization 🧹📊
 
-✨ Next Steps:
-I’m moving forward with creating dashboards and a compelling presentation to share these insights with business stakeholders.
+🔍 Approach:
+1️⃣ Reviewed datasets and metadata for a strong foundation.
+2️⃣ Analyzed key metrics using MySQL and Power BI.
+3️⃣ Designed an interactive dashboard to present insights.
+4️⃣ Answered business queries from ‘ad-hoc requests.pdf’ using SQL, exploring CTEs, window functions, and aggregate functions.
 
-💬 Reflections:
-This project challenged me to think strategically about transportation data and deliver actionable insights. It’s been a rewarding experience, and I’m eager to see how this impacts decision-making at Goodcabs.
+🧠 Key Learnings:
+✅ Enhanced metadata analysis and pattern recognition skills.
+✅ Strengthened Power BI dashboard-building proficiency.
+✅ Mastered SQL (CTEs, window functions, aggregations).
+✅ Transformed raw data into actionable insights.
 
-Let me know if you’d like to collaborate or have feedback on my work!
-
-#SQL #DataAnalytics #GoodcabsChallenge #LearningJourney #DataDrivenInsights #TransportationDomain
 
